@@ -1,0 +1,19 @@
+{
+  "name": "smartroom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlixDerPartyBus/SmartRoom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlixDerPartyBus/SmartRoom/issues"
+  },
+  "homepage": "https://github.com/FlixDerPartyBus/SmartRoom#readme"
+}
